@@ -1,0 +1,54 @@
+.container1{
+    justify-content: center;
+    justify-items: center;
+}
+.navposition{
+  
+    margin-left: 300px;
+    margin-right: 500px;
+}
+.navbO{
+  margin-top: 10PX;
+}
+.plans{
+ background-color:ghostwhite;
+ text-align: center;
+ margin-top: 16px;
+}
+.plancard{
+   display: flex;
+   justify-content: space-between;   
+}
+.footer{
+    background-color:black;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.footerTitle{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+    padding-left: 20px;   
+}
+.carddeck{
+   display: flex;
+   justify-content:center;
+   align-items: center;
+}
+.pcard{
+    color: red;  
+}
+.ptext{
+    font-size:12px;
+    color: white;
+    padding: auto;
+}
+.cardd{
+    margin-left: 0;
+    margin-right: 20px;
+}
+.cardcenter{
+        margin-left: 100px;
+        margin-right: 100px;
+}
